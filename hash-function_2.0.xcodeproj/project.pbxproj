@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FDC096CC2938AAEC00603FA0 /* hash-function_2.0 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "hash-function_2.0"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FDC096CF2938AAEC00603FA0 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		FDC096D62938B12E00603FA0 /* base.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = base.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		FDC096C32938AAEC00603FA0 = {
 			isa = PBXGroup;
 			children = (
+				FDC096D62938B12E00603FA0 /* base.txt */,
 				FDC096CE2938AAEC00603FA0 /* hash-function_2.0 */,
 				FDC096CD2938AAEC00603FA0 /* Products */,
 			);
